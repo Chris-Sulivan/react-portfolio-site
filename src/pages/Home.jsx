@@ -4,7 +4,6 @@ import { Link } from "react-router-dom";
 export default function Home() {
   return (
     <section className="hero">
-      <p className="hero__eyebrow">// welcome</p>
 
       <h1>
         Hi, I'm Chris Sojio.
@@ -20,7 +19,7 @@ export default function Home() {
         technologies I'm learning throughout my journey.
       </p>
 
-      <p className="comment-line">Mission statement</p>
+
 
       <p>
         My goal is to continuously strengthen my programming and
